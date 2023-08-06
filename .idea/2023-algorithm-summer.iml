@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beginner_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beginner_1/1주차" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beginner_1/1주차/07_20529_가장 가까운 세 사람의 심리적 거리" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beginner_1/1주차/08_10814_나이순 정렬" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beginner_1/1주차/09_18870_좌표 압축" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beginner_1/2주차" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beginner_1/2주차/06_2193_이친수" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beginner_1/2주차/07_1463_1로 만들기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beginner_1/2주차/08_1535_안녕" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beginner_1/3주차" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beginner_1/3주차/1074_Z" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beginner_1/3주차/1463_스타트와 링크" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beginner_1/3주차/15657_N과M(8)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beginner_1/4주차" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beginner_1/4주차/11724_연결요소의_개수" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beginner_1/4주차/1260_DFS와BFS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beginner_1/4주차/1325_효율적인_해킹" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beginner_1/4주차/2178_미로탐색" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Beginner_1/4주차/2667_단지번호붙이기" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
